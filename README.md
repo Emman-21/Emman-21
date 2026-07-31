@@ -70,13 +70,17 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
+---
 
 ## 📌 Notable Projects
  
-### 🎮 [Physics Mind Arena](https://github.com/Emman-21/REPO-NAME-1)
+### 🎮 [Physics Mind Arena](https://physics-mind-arena-g3-web-app-yvof.vercel.app/)
 A full-stack web based game application for learning physics through interactive, hands-on challenges.
 `ReactJS` `HTML5` `CSS3` `Tailwind CSS` `SQL`
- 
+
+### 📔 [MemoryVault](https://physics-mind-arena-g3-web-app-yvof.vercel.app/)
+A full-stack web based game application for learning physics through interactive, hands-on challenges.
+`ReactJS` `HTML5` `CSS3` `Tailwind CSS` `SQL`
 
 ---
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:302b63,100:0f0c29&height=150&section=footer&text=Every%20progress%20is%20the%20step%20that%20leads%20to%20success&fontSize=20&fontColor=ffffff&fontAlignY=75" width="100%" alt="Footer Banner" /> </div>
