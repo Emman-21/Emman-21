@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&height=50&lines=BSIT+-+Network+Technology+Student;Aspiring+Freelance+Full-Stack+Developer;Cloud+%26+Network+Engineering+Enthusiast;Building+Scalable+Web+%26+Network+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&height=50&lines=BSIT+-+Network+Technology+Student;Aspiring+Freelance+Full-Stack+Developer;Cloud+%26+Network+Engineering+Enthusiast;Building+Scalable+Web+%26+Network+Solutions" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -33,8 +33,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:6366f1&height=3&width=100%" width="100%" alt="divider" />
 
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -70,17 +68,21 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
+
 ---
 
 ## 📌 Notable Projects
  
 ### 🎮 [Physics Mind Arena](https://physics-mind-arena-g3-web-app-yvof.vercel.app/)
 A full-stack web based game application for learning physics through interactive, hands-on challenges.
+
 `ReactJS` `HTML5` `CSS3` `Tailwind CSS` `SQL`
 
-### 📔 [MemoryVault](https://physics-mind-arena-g3-web-app-yvof.vercel.app/)
-A full-stack web based game application for learning physics through interactive, hands-on challenges.
-`ReactJS` `HTML5` `CSS3` `Tailwind CSS` `SQL`
+### 📔 [MemoryVault](https://emman-21.github.io/MemoryVault/)
+A website diary for sharing your experiences everyday.
+
+`Javascript` `HTML5` `CSS3`
 
 ---
+
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:302b63,100:0f0c29&height=150&section=footer&text=Every%20progress%20is%20the%20step%20that%20leads%20to%20success&fontSize=20&fontColor=ffffff&fontAlignY=75" width="100%" alt="Footer Banner" /> </div>
