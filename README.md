@@ -1,33 +1,37 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=EMMAN%20BORILLO&fontSize=50&fontColor=a855f7&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:a855f7&height=260&section=header&text=EMMAN%20BORILLO&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="Header Banner" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=50&lines=BSIT+-+Network+Technology+Student;Aspiring+Freelance+Full-Stack+Developer;Cloud+%26+Network+Engineering+Enthusiast;Building+Scalable+Web+%26+Network+Solutions" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <br/><br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&height=50&lines=BSIT+-+Network+Technology+Student;Aspiring+Freelance+Full-Stack+Developer;Cloud+%26+Network+Engineering+Enthusiast;Building+Scalable+Web+%26+Network+Solutions" alt="Typing SVG" />
+</a>
 
-  <img src="https://img.shields.io/badge/Degree-BSIT_in_Network_Technology-8b5cf6?style=for-the-badge&logo=academicons&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Philippines-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
-  <img src="https://komarev.com/ghpvc/?username=emmanborillo&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<br/><br/>
 
-  <br/><br/>
+<img src="https://img.shields.io/badge/🎓_BSIT-Network_Technology-8b5cf6?style=for-the-badge&labelColor=1a1a2e" alt="Academic Badge" />
+<img src="https://img.shields.io/badge/📍-Philippines-6366f1?style=for-the-badge&labelColor=1a1a2e" alt="Location Badge" />
 
-  <a href="mailto:borilloemman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/emman-borillo-189944321/?locale=en">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/emman.borillo.92">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://github.com/emmanborillo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<br/><br/>
 
-  <br/><br/>
+<a href="mailto:borilloemman@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/emman-borillo-189944321/?locale=en">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/emman.borillo.92">
+  <img src="https://img.shields.io/badge/Facebook-1a1a2e?style=for-the-badge&logo=facebook&logoColor=A855F7" alt="Facebook" />
+</a>
+<a href="https://github.com/emmanborillo">
+  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:6366f1&height=3&width=100%" width="100%" alt="divider" />
+
 </div>
 
 ---
@@ -67,58 +71,5 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### ☁️ Cloud, Networking & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Networking-Cisco_Packet_Tracer-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanborillo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanborillo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanborillo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-<!--
-  Replace REPO-NAME below with your actual repository names.
-  You can add as many pin blocks as you like (GitHub recommends up to 6 pinned repos).
--->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmanborillo&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emmanborillo&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" alt="Project 2" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emmanborillo&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanborillo&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%" alt="Footer Banner" />
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:302b63,100:0f0c29&height=150&section=footer&text=Every%20progress%20is%20the%20step%20that%20leads%20to%20success&fontSize=20&fontColor=ffffff&fontAlignY=75" width="100%" alt="Footer Banner" /> </div>
