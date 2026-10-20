@@ -1,88 +1,134 @@
+<!-- GitHub profile README for Emman Borillo. Keep the assets/ folder beside this file. -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:a855f7&height=260&section=header&text=EMMAN%20BORILLO&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="Header Banner" />
+<img src="assets/pixel-header.png" width="100%" alt="Pixel-art city at sunset with Emman Borillo coding on a laptop" />
 
-<br/>
+<br />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=650&height=50&lines=BSIT+-+Network+Technology+Student;Aspiring+Freelance+Full-Stack+Developer;Cloud+%26+Network+Engineering+Enthusiast;Building+Scalable+Web+%26+Network+Solutions" alt="Typing SVG" />
-</a>
+<a href="mailto:borilloemman@gmail.com"><img src="https://img.shields.io/badge/EMAIL-172033?style=for-the-badge&logo=gmail&logoColor=ffb78e" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/emman-borillo-189944321/"><img src="https://img.shields.io/badge/LINKEDIN-172033?style=for-the-badge&logo=linkedin&logoColor=79d4fa" alt="LinkedIn" /></a>
+<a href="https://github.com/Emman-21"><img src="https://img.shields.io/badge/GITHUB-172033?style=for-the-badge&logo=github&logoColor=c7a6ff" alt="GitHub" /></a>
+<a href="https://www.facebook.com/emman.borillo.92"><img src="https://img.shields.io/badge/FACEBOOK-172033?style=for-the-badge&logo=facebook&logoColor=79d4fa" alt="Facebook" /></a>
 
-<br/><br/>
+<br /><br />
 
-<img src="https://img.shields.io/badge/🎓_BSIT-Network_Technology-8b5cf6?style=for-the-badge&labelColor=1a1a2e" alt="Academic Badge" />
-<img src="https://img.shields.io/badge/📍-Philippines-6366f1?style=for-the-badge&labelColor=1a1a2e" alt="Location Badge" />
+<code>BSIT • NETWORK TECHNOLOGY</code> &nbsp; <code>PHILIPPINES</code> &nbsp; <code>CURRENTLY STUDYING CCNA</code>
 
-<br/><br/>
+<br /><br />
 
-<a href="mailto:borilloemman@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/emman-borillo-189944321/?locale=en">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
-</a>
-<a href="https://www.facebook.com/emman.borillo.92">
-  <img src="https://img.shields.io/badge/Facebook-1a1a2e?style=for-the-badge&logo=facebook&logoColor=A855F7" alt="Facebook" />
-</a>
-<a href="https://github.com/emmanborillo">
-  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:6366f1&height=3&width=100%" width="100%" alt="divider" />
+<a href="#-about-me">ABOUT</a> &nbsp;•&nbsp;
+<a href="#-my-toolbox">SKILLS</a> &nbsp;•&nbsp;
+<a href="#-featured-projects">PROJECTS</a> &nbsp;•&nbsp;
+<a href="#-github-activity">GITHUB</a> &nbsp;•&nbsp;
+<a href="#-say-hello">CONTACT</a>
 
 </div>
 
-## 🚀 About Me
+<img src="assets/pixel-divider.png" width="100%" alt="Retro pixel divider" />
 
-- 🎓 **Education:** Pursuing a Bachelor of Science in Information Technology (BSIT), Major in **Network Technology**.
-- 🎯 **Career Target:** Aspiring **Freelance Full-Stack Developer** & **Network/Cloud Engineer**.
-- 📡 **Currently:** Studying **CCNA**.
-- 🤝 **Open To:** Freelance projects, open-source collaborations, networking labs, and software engineering opportunities.
+## 👾 About me
 
----
+Hey, I'm **Emman**, an IT student who likes turning ideas into projects you can actually use. I enjoy the creative side of designing interfaces as much as the problem-solving that happens behind the code.
 
-## 🛠️ Tech Stack & Skills
+I'm studying **Network Technology** while exploring **full-stack web development**, **network engineering**, and **cloud technologies**. I'm still learning, but I like building things along the way instead of waiting until I know everything.
 
-### 💻 Languages & Core Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+```text
+> CURRENT QUESTS
+  [01] Build useful web apps with React, JavaScript & Firebase
+  [02] Strengthen my CCNA and networking fundamentals
+  [03] Explore backend systems and cloud engineering
+  [04] Collaborate, experiment, debug, repeat
+```
 
-### 🌐 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+<img src="assets/pixel-divider.png" width="100%" alt="Retro pixel divider" />
 
-### 🗄️ Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
+## 🛠️ My toolbox
 
----
+**Languages & web fundamentals**
 
-## 📌 Notable Projects
- 
-### 🎮 [Physics Mind Arena](https://physics-mind-arena-g3-web-app-yvof.vercel.app/)
-A full-stack web based game application for learning physics through interactive, hands-on challenges.
+<p><img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css&theme=dark" alt="JavaScript, Python, Java, C++, HTML, CSS" /></p>
 
-`ReactJS` `HTML5` `CSS3` `Tailwind CSS` `SQL`
+**Frontend & UI design**
 
-### 📔 [MemoryVault](https://emman-21.github.io/MemoryVault/)
-A website diary for sharing your experiences everyday.
+<p><img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma&theme=dark" alt="React, Tailwind CSS, Vite, Figma" /></p>
 
-`Javascript` `HTML5` `CSS3`
+**Data, backend & dev tools**
 
----
+<p><img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,vscode&theme=dark" alt="Firebase, MySQL, SQLite, Git, GitHub, VS Code" /></p>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:302b63,100:0f0c29&height=150&section=footer&text=Every%20progress%20is%20the%20step%20that%20leads%20to%20success&fontSize=20&fontColor=ffffff&fontAlignY=75" width="100%" alt="Footer Banner" /> </div>
+**Networking lab:** `CCNA` `TCP/IP` `Subnetting` `Routing & Switching` `Troubleshooting`
+
+<img src="assets/pixel-divider.png" width="100%" alt="Retro pixel divider" />
+
+## 🕹️ Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Emman-21/PhysicsMindArena"><img src="assets/card-physics.png" alt="Pixel-art Physics Mind Arena project art" width="100%" /></a>
+      <h3>🎮 Physics Mind Arena</h3>
+      <p>Physics study meets arcade-style learning: lessons, flashcards, quiz battles, and achievements.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>CSS</code></p>
+      <a href="https://github.com/Emman-21/PhysicsMindArena"><strong>Explore the code ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://emman-21.github.io/MemoryVault/"><img src="assets/card-memory.png" alt="Pixel-art MemoryVault journal project art" width="100%" /></a>
+      <h3>📔 MemoryVault</h3>
+      <p>A personal digital diary for capturing everyday thoughts, tracking moods, and keeping entries in the browser.</p>
+      <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
+      <a href="https://emman-21.github.io/MemoryVault/"><strong>Live site ↗</strong></a> &nbsp;·&nbsp;
+      <a href="https://github.com/Emman-21/MemoryVault">Source code ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Emman-21/docproof"><img src="assets/card-docproof.png" alt="Pixel-art DocProof verification project art" width="100%" /></a>
+      <h3>🔎 DocProof</h3>
+      <p>A hackathon project exploring how documentation claims can be checked against actual repository evidence.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Python</code></p>
+      <a href="https://github.com/Emman-21/docproof"><strong>Explore the code ↗</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Emman-21/PerformX-EmployeePerformanceTracker"><img src="assets/card-performx.png" alt="Pixel-art PerformX analytics project art" width="100%" /></a>
+      <h3>📊 PerformX</h3>
+      <p>A UI/UX concept for managing employee goals, performance reviews, and progress reports.</p>
+      <p><code>Figma</code> <code>UI/UX</code> <code>Prototyping</code></p>
+      <a href="https://www.figma.com/design/wg2wEIuwKiUIy9chS3io0o/Employee-Performance-Tracker"><strong>View Figma design ↗</strong></a>
+    </td>
+  </tr>
+</table>
+
+### 🧪 Currently in development
+
+- **BlockSync** — a class and section management system for schedules, announcements, and student information.
+- **CTRL+PATH** — a BSIT track exploration platform covering **Networking Technology**, **Business Analytics**, and **System Management**.
+
+<sub>These projects are still evolving. The features and designs may change as I work on them.</sub>
+
+<img src="assets/pixel-divider.png" width="100%" alt="Retro pixel divider" />
+
+## 📈 GitHub activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emman-21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=8de0f9&text_color=c9d1d9" height="160" alt="Emman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emman-21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9" height="160" alt="Languages used in Emman's public GitHub repositories" />
+</div>
+
+<p align="center"><sub>Statistics are provided by a third-party service and may not always be available.</sub></p>
+
+<img src="assets/pixel-divider.png" width="100%" alt="Retro pixel divider" />
+
+## ✉️ Say hello
+
+If you're working on something interesting or have a project you think I'd enjoy, feel free to reach out. I'm open to collaborations, freelance opportunities, and learning with other developers.
+
+**[Email me](mailto:borilloemman@gmail.com)** &nbsp;·&nbsp; **[Connect on LinkedIn](https://www.linkedin.com/in/emman-borillo-189944321/)** &nbsp;·&nbsp; **[See my GitHub](https://github.com/Emman-21)**
+
+<div align="center">
+
+<img src="assets/pixel-footer.png" width="100%" alt="Pixel-art sunset skyline with a message about progress" />
+
+<sub>Made with curiosity, a lot of practice, and probably a few debugging sessions.</sub>
+
+</div>
