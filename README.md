@@ -12,33 +12,36 @@
 
 
 
-<code>BSIT • NETWORK TECHNOLOGY</code>   <code>PHILIPPINES</code>
+<code>BSIT • NETWORK TECHNOLOGY</code> 
+</div>
 
 <img src="pixel-divider.png" width="100%" alt="Retro pixel divider" />
 
-👾 About me
-Hey, I'm Emman, an IT student who likes turning ideas into projects you can actually use. I enjoy the creative side of designing interfaces as much as the problem-solving that happens behind the code.
+## 👾 About Me
+Hey, I'm <b>Emman</b>, an IT student who likes turning ideas into projects you can actually use. I enjoy the creative side of designing interfaces as much as the problem-solving that happens behind the code.
 
-I'm studying Network Technology while exploring full-stack web development, network engineering, and cloud technologies. I'm still learning, but I like building things along the way instead of waiting until I know everything.
+I'm studying Network Technology while exploring <b>full-stack web development, network engineering, and cloud technologies</b>. I'm still learning, but I like building things along the way instead of waiting until I know everything.
+
 <img src="pixel-divider.png" width="100%" alt="Retro pixel divider" />
 
-🛠️ My Toolbox
-Languages & web fundamentals
+  
+## 🛠️ My Toolbox
+
+
+<b>Programming Languages Used</b>
 <p><img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css&theme=dark" alt="JavaScript, Python, Java, C++, HTML, CSS" /></p>
 
 
-Frontend & UI design
+<b>Frontend & UI Design</b>
 <p><img src="https://skillicons.dev/icons?i=react,tailwind,vite,figma&theme=dark" alt="React, Tailwind CSS, Vite, Figma" /></p>
 
 
-Data, backend & dev tools
+<b>Data, Backend & Dev Tools</b>
 <p><img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,vscode&theme=dark" alt="Firebase, MySQL, SQLite, Git, GitHub, VS Code" /></p>
 
-
-Networking lab: CCNA TCP/IP Subnetting Routing & Switching Troubleshooting
 <img src="pixel-divider.png" width="100%" alt="Retro pixel divider" />
 
-🕹️ Featured projects
+## 🕹️ Featured Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -75,10 +78,6 @@ Networking lab: CCNA TCP/IP Subnetting Routing & Switching Troubleshooting
   </tr>
 </table>
 
-🧪 Currently in development
-- BlockSync — a class and section management system for schedules, announcements, and student information.
-- CTRL+PATH — a BSIT track exploration platform covering Networking Technology, Business Analytics, and System Management.
-<sub>These projects are still evolving. The features and designs may change as I work on them.</sub>
 <img src="pixel-divider.png" width="100%" alt="Retro pixel divider" />
 
 📈 GitHub activity
@@ -90,11 +89,11 @@ Networking lab: CCNA TCP/IP Subnetting Routing & Switching Troubleshooting
 <p align="center"><sub>Statistics are provided by a third-party service and may not always be available.</sub></p>
 
 <img src="pixel-divider.png" width="100%" alt="Retro pixel divider" />
+</div>
 
-✉️ Say hello
-If you're working on something interesting or have a project you think I'd enjoy, feel free to reach out. I'm open to collaborations, freelance opportunities, and learning with other developers.
+<b>If you're working on something interesting or have a project you think I'd enjoy, feel free to reach out. I'm open to collaborations, freelance opportunities, and learning with other developers.</B>
 
-Email me  ·  Connect on LinkedIn  ·  See my GitHub
+
 <div align="center">
 
 <img src="pixel-footer.png" width="100%" alt="Pixel-art sunset skyline with a message about progress" />
