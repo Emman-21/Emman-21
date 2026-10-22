@@ -12,16 +12,7 @@
 
 
 
-<code>BSIT • NETWORK TECHNOLOGY</code>   <code>PHILIPPINES</code>   <code>CURRENTLY STUDYING CCNA</code>
-
-
-
-<a href="#-about-me">ABOUT</a>  • 
-<a href="#-my-toolbox">SKILLS</a>  • 
-<a href="#-featured-projects">PROJECTS</a>  • 
-<a href="#-github-activity">GITHUB</a>  • 
-<a href="#-say-hello">CONTACT</a>
-</div>
+<code>BSIT • NETWORK TECHNOLOGY</code>   <code>PHILIPPINES</code>
 
 <img src="pixel-divider.png" width="100%" alt="Retro pixel divider" />
 
@@ -29,14 +20,9 @@
 Hey, I'm Emman, an IT student who likes turning ideas into projects you can actually use. I enjoy the creative side of designing interfaces as much as the problem-solving that happens behind the code.
 
 I'm studying Network Technology while exploring full-stack web development, network engineering, and cloud technologies. I'm still learning, but I like building things along the way instead of waiting until I know everything.
-> CURRENT QUESTS
-  [01] Build useful web apps with React, JavaScript & Firebase
-  [02] Strengthen my CCNA and networking fundamentals
-  [03] Explore backend systems and cloud engineering
-  [04] Collaborate, experiment, debug, repeat
 <img src="pixel-divider.png" width="100%" alt="Retro pixel divider" />
 
-🛠️ My toolbox
+🛠️ My Toolbox
 Languages & web fundamentals
 <p><img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css&theme=dark" alt="JavaScript, Python, Java, C++, HTML, CSS" /></p>
 
